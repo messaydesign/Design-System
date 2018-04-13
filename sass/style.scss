@@ -1,3 +1,6 @@
 
-
-@import "layout/grid.scss";
+@import "base/base.scss";
+.row {
+    width:114rem;
+    background-color: lightblue;
+}
